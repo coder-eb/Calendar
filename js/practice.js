@@ -1,6 +1,6 @@
 console.log('Hello');
 
-var fruits = ["Apple", "Banana", "Orange", "Strawberry"];
+var fruits = ["Grape", "Banana", "Orange", "Strawberry"];
 
 function openMe(){
     x = document.getElementById("demo");
